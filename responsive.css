@@ -24,7 +24,15 @@
     text-align: center;
   }
   
-  .btn {
+  .header-right {
+    display: none;
+  }
+  
+  .menu-icon {
+    display: block;
+  }
+  
+    .btn {
     width: 100%;
   }
   
@@ -36,14 +44,8 @@
     text-align: left;
   }
   
-  /* Tambahkan CSS untuk header-right */
-  .header-right {
-    display : none;
-  }
-  
-  /* Tambahkan CSS untuk menu-icon */
-  .menu-icon {
-    display : block;
+  .top-wrapper {
+    text-align: left;
   }
   
   .top-wrapper h1 {
